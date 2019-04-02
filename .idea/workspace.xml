@@ -20,8 +20,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" selection-start-line="22" selection-end-line="22" />
+            <state relative-caret-position="136">
+              <caret line="8" column="38" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -111,7 +111,7 @@
       <workItem from="1554181703397" duration="1636000" />
       <workItem from="1554183385221" duration="61000" />
       <workItem from="1554183475675" duration="128000" />
-      <workItem from="1554183675899" duration="1374000" />
+      <workItem from="1554183675899" duration="1644000" />
     </task>
     <task id="LOCAL-00001" summary="Homework 1 index.html created">
       <created>1554182004736</created>
@@ -169,11 +169,18 @@
       <option name="project" value="LOCAL" />
       <updated>1554185484773</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Homework 1 Photo added">
+      <created>1554186355535</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1554186355535</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3199000" />
+    <option name="totallyTimeSpent" value="3469000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="884" extended-state="6" />
@@ -255,13 +262,14 @@
     <MESSAGE value="Homework 1 index.html created" />
     <MESSAGE value="Homework 1 index.html created again" />
     <MESSAGE value="Homework 1 index.html created 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Homework 1 index.html created 2" />
+    <MESSAGE value="Homework 1 Photo added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Homework 1 Photo added" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        <state relative-caret-position="136">
+          <caret line="8" column="38" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
         </state>
       </provider>
     </entry>
