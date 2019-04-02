@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="01156327-6292-4a57-a78f-f12436a5af53" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -12,16 +13,15 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="38" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
+            <state relative-caret-position="272">
+              <caret line="25" column="13" lean-forward="true" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -46,9 +46,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="457" />
-    <option name="y" value="186" />
-    <option name="width" value="785" />
+    <option name="x" value="681" />
+    <option name="y" value="41" />
+    <option name="width" value="919" />
     <option name="height" value="550" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -111,7 +111,7 @@
       <workItem from="1554181703397" duration="1636000" />
       <workItem from="1554183385221" duration="61000" />
       <workItem from="1554183475675" duration="128000" />
-      <workItem from="1554183675899" duration="1644000" />
+      <workItem from="1554183675899" duration="2500000" />
     </task>
     <task id="LOCAL-00001" summary="Homework 1 index.html created">
       <created>1554182004736</created>
@@ -176,16 +176,31 @@
       <option name="project" value="LOCAL" />
       <updated>1554186355535</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Homework 1 Photo added">
+      <created>1554186420061</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1554186420061</updated>
+    </task>
+    <task id="LOCAL-00011" summary="http changed to https for W3 validation">
+      <created>1554186658462</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1554186658462</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3469000" />
+    <option name="totallyTimeSpent" value="4325000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="884" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.243125" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.115625" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -263,13 +278,14 @@
     <MESSAGE value="Homework 1 index.html created again" />
     <MESSAGE value="Homework 1 index.html created 2" />
     <MESSAGE value="Homework 1 Photo added" />
-    <option name="LAST_COMMIT_MESSAGE" value="Homework 1 Photo added" />
+    <MESSAGE value="http changed to https for W3 validation" />
+    <option name="LAST_COMMIT_MESSAGE" value="http changed to https for W3 validation" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="38" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
+        <state relative-caret-position="272">
+          <caret line="25" column="13" lean-forward="true" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
         </state>
       </provider>
     </entry>
